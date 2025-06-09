@@ -1,2 +1,2 @@
-# -PRODIGY_CS_01
+# PRODIGY_CS_01
 Implementation of Caesar Cipher
