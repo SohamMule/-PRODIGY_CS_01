@@ -26,7 +26,7 @@ Enter the shift value (0-25): 3
 Encrypted message: Khoor Zruog
 
 Requirements
-VS code or google collab
+VS code or google collab.
 
 License
 This project is free to use for educational and personal purposes.
